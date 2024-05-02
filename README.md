@@ -56,7 +56,7 @@ Texto(varchar): Nome, Localização, Área, Cargo
 
 <p>Relacionamento empresa_tecnologia</p>
 
-| id_empresa | id_eecnologia |
+| id_empresa | id_tec        |
 | ---------- | ------------- |
 | 1          | 1             |
 | 1          | 2             |
