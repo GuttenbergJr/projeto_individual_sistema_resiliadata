@@ -40,13 +40,13 @@ Texto(varchar): Nome, Localização, Área, Cargo
 
 <p>tecnologia</p>
 | id_tec        | nome            | area            |
-|---------------|-----------------|-----------------|
+| ------------- | --------------- | --------------- |
 | 1             | Java            | Desenvolvimento |
 | 2             | Python          | Desenvolvimento |
 
 <p>colaborador</p>
 | id_colaborador | nome           | cargo           | id_empresa |
-|----------------|----------------|-----------------|------------|
+| -------------- | -------------- | --------------- | ---------- |
 | 1              | João Silva     | Desenvolvedor   | 1          |
 | 2              | Maria Santos   | Analista        | 1          |
 | 3              | Eliana Fernand.| Programador     | 2          |
@@ -54,7 +54,7 @@ Texto(varchar): Nome, Localização, Área, Cargo
 
 <p>Relacionamento empresa_tecnologia</p>
 | id_empresa | id_eecnologia |
-|------------|---------------|
+| ---------- | ------------- |
 | 1          | 1             |
 | 1          | 2             |
 | 2          | 2             |
