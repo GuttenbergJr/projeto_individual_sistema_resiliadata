@@ -20,9 +20,11 @@ Texto(varchar): Nome, Localização, Área, Cargo
 
 <h3>3 - Como essas entidades estão relacionadas?</h3>
 <p>as relações são:
-•	Uma Empresa Parceira pode ter muitos Colaboradores.
-•	Uma Empresa Parceira pode ter muitas relações com Tecnologias (e vice-versa).
-•	Uma Tecnologia pode estar relacionada com muitas Empresas Parceiras.
+ <ul>
+<li>	Uma Empresa Parceira pode ter muitos Colaboradores.</li>
+<li>Uma Empresa Parceira pode ter muitas relações com Tecnologias (e vice-versa).</li>
+<li>Uma Tecnologia pode estar relacionada com muitas Empresas Parceiras.</li>
+ </ul>
 </p>
 
 <h3>4 - Simule 2 registros para cada entidade.</h3>
