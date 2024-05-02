@@ -30,11 +30,12 @@ Texto(varchar): Nome, Localização, Área, Cargo
 <h3>4 - Simule 2 registros para cada entidade.</h3>
 
 <p>empresa_parceira</p>
-<p>| id_empresa | nome             | localizacao     |
-|------------|------------------|-----------------|
+
+| id_empresa | nome             | localizacao     |
+| ---------- | ---------------- | --------------- |
 | 1          | Microsoft        | São Paulo, SP   |
 | 2          | Apple            | Xique-Xique, BA |
-</p>
+
 
 
 <p>tecnologia</p>
