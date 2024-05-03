@@ -4,7 +4,8 @@
 <p>- Realização da modelagem lógica de dados para o sistema RESILIADATA, que auxiliará na avaliação das tecnologias utilizadas pelas empresas parceiras e seus colaboradores.</p>
 
  <h2>📊 Modelo lógico</h2>
-<img src="https://github.com/GuttenbergJr/projeto_individual_sistema_resiliadata/assets/114154174/a2380786-29e6-4505-888c-f485e8f93b06" alt="Print_Modelo_logico">
+<img src="https://github.com/GuttenbergJr/projeto_individual_sistema_resiliadata/assets/114154174/d236aee9-ed0f-4589-9cc4-809a38c33702" alt="Print_Modelo_logico">
+
 <p>Print do modelo lógico feito através do site lucidchart</p>
 
 <h2>❔ Perguntas feitas sobre o modelo</h2>
